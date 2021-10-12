@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "electron": "^13.1.9",
+    "electron": "^13.3.0",
     "foreman": "^3.0.1"
   }
 }
